@@ -14,7 +14,7 @@ session_start();
 	<!-- meta -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>miistore</title>
+	<title>MiiStore</title>
 	<meta name="keywords" content="men, women, clothing, home" />
 	<meta name="author" content="Eirene KW"/>
 	
